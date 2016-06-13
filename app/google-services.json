@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "8980184543",
+    "firebase_url": "https://chat-ad1fb.firebaseio.com",
+    "project_id": "chat-ad1fb",
+    "storage_bucket": "chat-ad1fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8980184543:android:667dee4cefb234e9",
+        "android_client_info": {
+          "package_name": "com.daul.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8980184543-5mv8hugp44n84sk3ddq68uos7pa175gm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQCT9ReHUfnz8vr7DPtQyZX3P1AXTCxHU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
